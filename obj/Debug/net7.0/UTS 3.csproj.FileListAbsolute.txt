@@ -1,0 +1,28 @@
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UTS 3\bin\Debug\net7.0\UTS 3.exe
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UTS 3\bin\Debug\net7.0\UTS 3.deps.json
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UTS 3\bin\Debug\net7.0\UTS 3.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UTS 3\bin\Debug\net7.0\UTS 3.dll
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UTS 3\bin\Debug\net7.0\UTS 3.pdb
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UTS 3\obj\Debug\net7.0\UTS 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UTS 3\obj\Debug\net7.0\UTS 3.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UTS 3\obj\Debug\net7.0\UTS 3.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UTS 3\obj\Debug\net7.0\UTS 3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UTS 3\obj\Debug\net7.0\UTS 3.dll
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UTS 3\obj\Debug\net7.0\refint\UTS 3.dll
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UTS 3\obj\Debug\net7.0\UTS 3.pdb
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UTS 3\obj\Debug\net7.0\UTS 3.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\Daspro\UTS 3\obj\Debug\net7.0\ref\UTS 3.dll
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\UTS 3\bin\Debug\net7.0\UTS 3.exe
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\UTS 3\bin\Debug\net7.0\UTS 3.deps.json
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\UTS 3\bin\Debug\net7.0\UTS 3.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\UTS 3\bin\Debug\net7.0\UTS 3.dll
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\UTS 3\bin\Debug\net7.0\UTS 3.pdb
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\UTS 3\obj\Debug\net7.0\UTS 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\UTS 3\obj\Debug\net7.0\UTS 3.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\UTS 3\obj\Debug\net7.0\UTS 3.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\UTS 3\obj\Debug\net7.0\UTS 3.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\UTS 3\obj\Debug\net7.0\UTS 3.dll
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\UTS 3\obj\Debug\net7.0\refint\UTS 3.dll
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\UTS 3\obj\Debug\net7.0\UTS 3.pdb
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\UTS 3\obj\Debug\net7.0\UTS 3.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Desktop\Ngoding bro\Daspro\UTS 3\obj\Debug\net7.0\ref\UTS 3.dll
